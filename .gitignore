@@ -1,0 +1,11 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data (Optional, but good practice if you don't want to upload the scraped data)
+prices.csv
