@@ -18,5 +18,5 @@ This terminal utilizes a self-healing data pipeline. By bypassing traditional sc
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/12jahsjahdnhjajs/alt-data-terminal.git](https://github.com/12jahsjahdnhjajs/alt-data-terminal.git)
+   git clone [https://github.com/ShaktiEighteen/alt-data-terminal.git](https://github.com/ShaktiEighteen/alt-data-terminal.git)
    cd alt-data-terminal
